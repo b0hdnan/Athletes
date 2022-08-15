@@ -97,7 +97,7 @@ body {
 }
 
 .sp-card:nth-child(5):hover::after {
-	content: "Football, $65.5M";
+	content: "Football, $68.5M";
 }
 
 .sp-card:nth-child(6):hover::after {
