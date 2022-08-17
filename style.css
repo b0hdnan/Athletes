@@ -63,8 +63,8 @@ body {
 
 .sp-card:hover {
 	background: rgb(240, 160, 114);
-	height: 281px;
-	margin-bottom: -41px;
+	height: 277px;
+	margin-bottom: -47px;
 	z-index: 1;
 	transform: scale(1.2);
 }
