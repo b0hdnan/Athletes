@@ -70,7 +70,7 @@ body {
 }
 
 .sp-card:hover .sp-card-img {
-	border-radius: 60px;
+	border-radius: 50px;
 }
 
 .sp-card:hover::after {
